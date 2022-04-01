@@ -31,4 +31,4 @@ This should open up a browser page http://localhost:3000/
 
 ## Demo
 
-https://jorgetorreso.github.io/chiper/
+http://18.205.182.154/
